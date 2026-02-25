@@ -2206,6 +2206,10 @@
 		(at 152.4 53.34)
 		(uuid "2a871e5d-77fa-47bd-b393-60256ca7f184")
 	)
+	(no_connect
+		(at 55.88 50.8)
+		(uuid "ae730cbf-f101-4ca2-a0f8-e3078ce506d1")
+	)
 	(wire
 		(pts
 			(xy 114.3 40.64) (xy 114.3 43.18)
@@ -2325,16 +2329,6 @@
 			(type default)
 		)
 		(uuid "1f7c0d6f-d05c-4cee-bbcf-2b0d26b5818a")
-	)
-	(wire
-		(pts
-			(xy 63.5 50.8) (xy 63.5 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f83a46c-e2fa-46b7-a6c4-d1249c54ea4f")
 	)
 	(wire
 		(pts
@@ -2458,16 +2452,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 50.8) (xy 63.5 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a6396d1-aacc-440e-9f3b-66a54671c8fb")
-	)
-	(wire
-		(pts
 			(xy 73.66 165.1) (xy 73.66 167.64)
 		)
 		(stroke
@@ -2488,7 +2472,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 50.8) (xy 41.91 50.8)
+			(xy 33.02 50.8) (xy 43.18 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4957,72 +4941,6 @@
 			(project ""
 				(path "/cabf21dc-d7cc-491b-8161-8874ca6c5af3"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 63.5 48.26 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "dd6c0d7d-a8cb-4f92-911f-d4b39e55c951")
-		(property "Reference" "#PWR09"
-			(at 63.5 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 63.5 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 63.5 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 63.5 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 63.5 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f7700cf8-ab3e-473a-a76c-9c73f5534bca")
-		)
-		(instances
-			(project "SMEE-DESIGNPROJECT"
-				(path "/cabf21dc-d7cc-491b-8161-8874ca6c5af3"
-					(reference "#PWR09")
 					(unit 1)
 				)
 			)
