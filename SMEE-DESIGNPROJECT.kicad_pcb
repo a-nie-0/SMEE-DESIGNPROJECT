@@ -1328,7 +1328,7 @@
 			)
 		)
 		(property "Value" "WP59EGW"
-			(at 0.29 -5.75 270)
+			(at -0.245 -5.22 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "adfc5551-1fd9-4df7-b2cc-08026474284e")
