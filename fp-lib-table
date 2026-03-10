@@ -1,6 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "TLC5916IN")(type "KiCad")(uri "${KIPRJMOD}/Parts/TLC5916IN/KiCADv6/footprints.pretty")(options "")(descr ""))
-  (lib (name "SMEE_Soil_Sensor")(type "KiCad")(uri "${KIPRJMOD}/Parts/SMEE_Soil_Sensor/Library.pretty")(options "")(descr ""))
-  (lib (name "WP59EGW")(type "KiCad")(uri "${KIPRJMOD}/Parts/WP59EGW/KiCADv6/footprints.pretty")(options "")(descr ""))
-)

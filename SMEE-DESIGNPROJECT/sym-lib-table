@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WP59EGW")(type "KiCad")(uri "C:/Users/brick/Downloads/SMEE-DESIGNPROJECT-LIBRARIES/WP59EGW/KiCADv6/2026-02-25_09-38-50.kicad_sym")(options "")(descr ""))
+  (lib (name "SMEE_SOIL_PROBE")(type "KiCad")(uri "C:/Users/brick/Downloads/SMEE-DESIGNPROJECT-LIBRARIES/SMEE_SOIL_PROBE/SMEE_SOIL_PROBE.kicad_sym")(options "")(descr ""))
+)
