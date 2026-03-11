@@ -233,9 +233,9 @@
 		(uuid "c6ccc308-4c0e-472b-ad93-1d7c8cffd24a")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/Parts/WP59EGW/WP59EGW_KNB.step"
+	(model "C:/Users/brick/Downloads/SMEE-DESIGNPROJECT/SMEE-DESIGNPROJECT-LIBRARIES/WP59EGW/WP59EGW_KNB.step"
 		(offset
-			(xyz 0 0 3.5)
+			(xyz 0 0 3)
 		)
 		(scale
 			(xyz 1 1 1)
